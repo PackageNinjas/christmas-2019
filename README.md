@@ -1,7 +1,14 @@
 # Christmas 2019
 
 A set of Christmasified openSUSE packages.
+
+SUSE Prague packagers prepared a Christmas surprise for you! Check out the video for a magical quest of an openSUSE user for a hidden message.
+
 See the demo at https://youtu.be/vVvd--APxj4
+
+Created by Package Ninjas (Kristyna Streitova, Vitezslav Cizek and Marketa Calabkova).
+
+**DISCLAIMER**: These packages are just for Christmas fun. You should better not use them on your production system.
 
 For the brave and curious, here's how to experience it yourself:
 
@@ -23,3 +30,5 @@ Should you install it on your real workstation, and be unhappy with it (we told 
 (4) Remove any leftovers
 
     # zypper rm xsnow cowsay htop
+
+ 
